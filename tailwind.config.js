@@ -7,7 +7,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        border: "#e5e7eb", // যদি border-border class use করতে চান
+        border: "#e5e7eb",
+        background: "#ffffff", // এখানে আপনার bg-background এর color দিন
       },
     },
   },
