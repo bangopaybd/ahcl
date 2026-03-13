@@ -119,3 +119,12 @@
   from { opacity: 0; transform: translateY(20px); }
   to { opacity: 1; transform: translateY(0); }
 }
+
+@layer utilities {
+  .border-border {
+    border: 1px solid theme('colors.border');
+  }
+  .bg-background {
+    background-color: theme('colors.background');
+  }
+}
