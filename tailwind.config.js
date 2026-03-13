@@ -9,7 +9,7 @@ module.exports = {
       colors: {
         border: "#e5e7eb",
         background: "#ffffff",
-        foreground: "#111827", // text-foreground color দিন
+        foreground: "#111827", // আপনার text color
       },
     },
   },
