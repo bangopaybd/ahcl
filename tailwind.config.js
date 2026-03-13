@@ -8,7 +8,8 @@ module.exports = {
     extend: {
       colors: {
         border: "#e5e7eb",
-        background: "#ffffff", // এখানে আপনার bg-background এর color দিন
+        background: "#ffffff",
+        foreground: "#111827", // text-foreground color দিন
       },
     },
   },
